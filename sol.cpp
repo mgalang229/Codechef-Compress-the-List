@@ -8,7 +8,7 @@ int main() {
   int tt;
   cin >> tt;
 	while (tt--) {
-		int	n;
+		int n;
 		cin >> n;
 		vector<int> a(n);
 		for (int i = 0; i < n; i++) {
@@ -46,6 +46,6 @@ int main() {
 			}
 		}
 		cout << '\n';
- 	}
+	}
   return 0;
 }      
